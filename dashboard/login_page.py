@@ -80,7 +80,7 @@ def show_login_page():
     # Header
     st.markdown("""
     <div class="login-title">
-        📈 Bloomberg Crypto Lokal
+        📈 Dashboard Crypto - FBucket
     </div>
     <div class="login-subtitle">
         Dashboard Monitoring Cryptocurrency
