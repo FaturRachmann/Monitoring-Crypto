@@ -246,7 +246,7 @@ def show_protected_dashboard():
         st_autorefresh(interval=refresh_interval, key="datarefresh")
 
         # Title and description with real-time indicator
-        title = "📈 Bloomberg Crypto Lokal" if language == 'id' else "📈 Bloomberg Crypto Local"
+        title = "📈 Dashboard Crypto - FBucket" if language == 'id' else "📈 Dashboard Crypto - FBucket"
         subtitle = "Pantauan pasar crypto dan transaksi besar secara real-time" if language == 'id' else "Real-time crypto market and whale transaction monitoring"
         
         st.title(title)
