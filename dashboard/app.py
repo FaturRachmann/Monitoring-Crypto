@@ -538,7 +538,7 @@ def main():
     """Fungsi utama aplikasi"""
     # Configure page
     st.set_page_config(
-        page_title="Bloomberg Crypto Lokal",
+        page_title="Dashboard Crypto - FBucket",
         page_icon="📈",
         layout="wide",
         initial_sidebar_state="expanded"
